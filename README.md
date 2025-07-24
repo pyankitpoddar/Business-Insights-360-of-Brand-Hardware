@@ -1,4 +1,4 @@
-# Business-Insights-360-of-Brand-Hardware
+## Business-Insights-360-of-Brand-Hardware
 
 [Link to Interactive dashboard](https://app.powerbi.com/view?r=eyJrIjoiNTMzNjlmMjQtMDRhOS00ZmNkLWJjY2QtY2RkNzA1MmVmMjgyIiwidCI6ImFjZjRkYzIxLTAxYmUtNDlmNS1iN2UxLWFlMzYwOWJiZWJjNSJ9&pageName=6809e0b038c812e809ee)
 
@@ -72,8 +72,12 @@ Sales View
 Marketing View
 ![Marketing View](https://github.com/pyankitpoddar/Business-Insights-360-of-Brand-Hardware/blob/f30554e9d966b69cf90e1a0dc8ba3ce05fd70e3f/Visuals/marketing.png)
 
+---
+
 Supply Chain View
 ![Supply Chain View](https://github.com/pyankitpoddar/Business-Insights-360-of-Brand-Hardware/blob/f30554e9d966b69cf90e1a0dc8ba3ce05fd70e3f/Visuals/supply%20chain.png)
+
+---
 
 Executive View
 ![Executive View](https://github.com/pyankitpoddar/Business-Insights-360-of-Brand-Hardware/blob/f30554e9d966b69cf90e1a0dc8ba3ce05fd70e3f/Visuals/executive.png)
@@ -120,4 +124,3 @@ The Business Insights 360 project represents a best-in-class Power BI implementa
 
 - [Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNTMzNjlmMjQtMDRhOS00ZmNkLWJjY2QtY2RkNzA1MmVmMjgyIiwidCI6ImFjZjRkYzIxLTAxYmUtNDlmNS1iN2UxLWFlMzYwOWJiZWJjNSJ9&pageName=6809e0b038c812e809ee)
 - Source Files, and Documentation: See repository structure.
-
