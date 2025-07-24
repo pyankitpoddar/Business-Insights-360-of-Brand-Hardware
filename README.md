@@ -1,9 +1,8 @@
 # Business-Insights-360-of-Brand-Hardware
 [Link to Interactive dashboard](https://app.powerbi.com/view?r=eyJrIjoiNTMzNjlmMjQtMDRhOS00ZmNkLWJjY2QtY2RkNzA1MmVmMjgyIiwidCI6ImFjZjRkYzIxLTAxYmUtNDlmNS1iN2UxLWFlMzYwOWJiZWJjNSJ9&pageName=6809e0b038c812e809ee)
 
-AtliQ Hardware, a rapidly expanding company, has embraced PowerBi as a powerful tool for data analytics, positioning itself for a competitive edge and well-informed decision-making. This ambitious project aims to illuminate various aspects, including finance, sales, marketing, and the supply chain.
+Brand Hardware, a rapidly expanding company, has embraced PowerBi as a powerful tool for data analytics, positioning itself for a competitive edge and well-informed decision-making. This ambitious project aims to illuminate various aspects, including finance, sales, marketing, and the supply chain.
 
-I, Manisha Deepshikha Patra, took the lead on this initiative, drawing from my training in the Codebasics PowerBi Course, and harnessed an array of tools and techniques:
 
 *Technology Stack:*
 - SQL
@@ -43,16 +42,16 @@ Dashboards Homepage
 ![Homepage](https://github.com/pyankitpoddar/Business-Insights-360-of-Brand-Hardware/blob/bd59b7e0ecabf802b9a9ca84d7c70d2b2cbabe3e/Visuals/homepage.png)
 
 Finance View
-![Finance View](https://github.com/Manikantanaidu1729/Business-Insights-360-of-AtliQ-Hardware/assets/153293142/af56ea95-e856-4b8f-81e0-7be85785db1c)
+![Finance View](https://github.com/pyankitpoddar/Business-Insights-360-of-Brand-Hardware/blob/f30554e9d966b69cf90e1a0dc8ba3ce05fd70e3f/Visuals/finance.png)
 
 Sales View
-![Sales View](https://github.com/Manikantanaidu1729/Business-Insights-360-of-AtliQ-Hardware/assets/153293142/c3484d96-0e6d-46bb-96c6-a5bb53dd26ed)
+![Sales View](https://github.com/pyankitpoddar/Business-Insights-360-of-Brand-Hardware/blob/f30554e9d966b69cf90e1a0dc8ba3ce05fd70e3f/Visuals/sales.png)
 
 Marketing View
-![Marketing View](https://github.com/Manikantanaidu1729/Business-Insights-360-of-AtliQ-Hardware/assets/153293142/6249e21a-d9af-419f-9703-dcd9569fa272)
+![Marketing View](https://github.com/pyankitpoddar/Business-Insights-360-of-Brand-Hardware/blob/f30554e9d966b69cf90e1a0dc8ba3ce05fd70e3f/Visuals/marketing.png)
 
 Supply Chain View
-![Supply Chain View](https://github.com/Manikantanaidu1729/Business-Insights-360-of-AtliQ-Hardware/assets/153293142/08aa6082-2720-430a-9c0e-64bafcdccddc)
+![Supply Chain View](https://github.com/pyankitpoddar/Business-Insights-360-of-Brand-Hardware/blob/f30554e9d966b69cf90e1a0dc8ba3ce05fd70e3f/Visuals/supply%20chain.png)
 
 Executive View
-![Executive View](https://github.com/Manikantanaidu1729/Business-Insights-360-of-AtliQ-Hardware/assets/153293142/ed6d29de-20de-496f-bafa-87ef4b041c4d)
+![Executive View](https://github.com/pyankitpoddar/Business-Insights-360-of-Brand-Hardware/blob/f30554e9d966b69cf90e1a0dc8ba3ce05fd70e3f/Visuals/executive.png)
