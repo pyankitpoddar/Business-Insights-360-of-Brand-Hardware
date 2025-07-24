@@ -40,6 +40,12 @@ This project's primary objective is to bring clarity to the data analytics initi
 
 Dashboards Homepage 
 ![Homepage](https://github.com/pyankitpoddar/Business-Insights-360-of-Brand-Hardware/blob/bd59b7e0ecabf802b9a9ca84d7c70d2b2cbabe3e/Visuals/homepage.png)
+Features
+- Finance View: P&L statements, profitability/growth analysis.
+- Sales View: Customer performance, key sales metrics.
+- Marketing View: Product trends & growth matrices.
+- Supply Chain View: Forecast accuracy and risk.
+- Executive View: Executive summary of key KPIs.
 
 Finance View
 ![Finance View](https://github.com/pyankitpoddar/Business-Insights-360-of-Brand-Hardware/blob/f30554e9d966b69cf90e1a0dc8ba3ce05fd70e3f/Visuals/finance.png)
