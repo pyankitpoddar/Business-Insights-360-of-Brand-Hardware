@@ -48,7 +48,7 @@ This project's primary objective is to bring clarity to the data analytics initi
 
 **Overall Report**
 
-Dashboards Homepage 
+*Dashboards Homepage*
 ![Homepage](https://github.com/pyankitpoddar/Business-Insights-360-of-Brand-Hardware/blob/bd59b7e0ecabf802b9a9ca84d7c70d2b2cbabe3e/Visuals/homepage.png)
 Features
 - Finance View: P&L statements, profitability/growth analysis.
@@ -59,55 +59,55 @@ Features
 
 ---
 
-Finance View
+*Finance View*
 ![Finance View](https://github.com/pyankitpoddar/Business-Insights-360-of-Brand-Hardware/blob/f30554e9d966b69cf90e1a0dc8ba3ce05fd70e3f/Visuals/finance.png)
 
 ---
 
-Sales View
+*Sales View*
 ![Sales View](https://github.com/pyankitpoddar/Business-Insights-360-of-Brand-Hardware/blob/f30554e9d966b69cf90e1a0dc8ba3ce05fd70e3f/Visuals/sales.png)
 
 ---
 
-Marketing View
+*Marketing View*
 ![Marketing View](https://github.com/pyankitpoddar/Business-Insights-360-of-Brand-Hardware/blob/f30554e9d966b69cf90e1a0dc8ba3ce05fd70e3f/Visuals/marketing.png)
 
 ---
 
-Supply Chain View
+*Supply Chain View*
 ![Supply Chain View](https://github.com/pyankitpoddar/Business-Insights-360-of-Brand-Hardware/blob/f30554e9d966b69cf90e1a0dc8ba3ce05fd70e3f/Visuals/supply%20chain.png)
 
 ---
 
-Executive View
+*Executive View*
 ![Executive View](https://github.com/pyankitpoddar/Business-Insights-360-of-Brand-Hardware/blob/f30554e9d966b69cf90e1a0dc8ba3ce05fd70e3f/Visuals/executive.png)
 
 ---
 
 ## Final Review
 
-### Scope and Coverage
+*Scope and Coverage*
 - Provides a 360-degree view across key domains: Finance, Sales, Marketing, Supply Chain, and Executive KPIs.
 - Supports operational and strategic decisions with detailed and executive-level dashboards.
 
-### Technical Execution
+*Technical Execution*
 - Advanced use of DAX for calculated columns and measures.
 - Interactive features: bookmarks, dynamic titles, KPI indicators, conditional formatting, and data validation.
 - Technology stack includes SQL, Power BI Desktop, Excel, and DAX Studio.
 - Automated data refresh via Power BI data gateway ensures up-to-date analytics.
 
-### User Experience and Navigation
+*User Experience and Navigation*
 - Intuitive homepage/dashboard with navigation links.
 - Consistent visual design and well-organized report pages.
 - Interactive filters for tailored data exploration.
 - Executive summaries for quick performance overviews.
 
-### Business Alignment and Impact
+*Business Alignment and Impact*
 - Addresses past challenges related to limited Excel analysis and intuitive decision-making.
 - Provides a transparent, data-backed environment for the newly formed analytics team.
 - Aligns with company goals, supporting sustainable growth and competitive advantage.
 
-### Maintainability and Collaboration
+*Maintainability and Collaboration*
 - Use of Power BI apps, workspace management, and role-based access control.
 - Version control and performance optimization through DAX Studio.
 - Designed for ongoing maintenance and scalability.
