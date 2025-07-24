@@ -40,7 +40,7 @@ This project's primary objective is to bring clarity to the data analytics initi
 **Overall Report**
 
 Dashboards Homepage 
-![Homepage](https://github.com/Manikantanaidu1729/Business-Insights-360-of-AtliQ-Hardware/assets/153293142/58856032-5e28-4a5f-97cc-defa991a1367)
+![Homepage](https://github.com/pyankitpoddar/Business-Insights-360-of-Brand-Hardware/blob/bd59b7e0ecabf802b9a9ca84d7c70d2b2cbabe3e/Visuals/homepage.png)
 
 Finance View
 ![Finance View](https://github.com/Manikantanaidu1729/Business-Insights-360-of-AtliQ-Hardware/assets/153293142/af56ea95-e856-4b8f-81e0-7be85785db1c)
